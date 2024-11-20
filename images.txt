@@ -1,10 +1,4 @@
-# docker.io to aliyun
-# redis:7.2.5|registry.cn-beijing.aliyuncs.com/wtbxsjy/redis:7.2.5
-# quay.io to aliyun
-# quay.io/coreos/etcd:v3.5.17|registry.cn-beijing.aliyuncs.com/wtbxsjy/etcd:v3.5.17
-# k8s.gcr.io to aliyun
-# k8s.gcr.io/pause:3.2|registry.cn-beijing.aliyuncs.com/wtbxsjy/pause:3.2
-# gcr.io to aliyun
-# gcr.io/google-containers/coredns:1.6.6|registry.cn-beijing.aliyuncs.com/wtbxsjy/coredns:1.6.6
 # gitlab-ee to aliyun
 gitlab/gitlab-ee:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/gitlab-ee:latest
+# ckg
+umids/ckg:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/ckg:latest
