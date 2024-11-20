@@ -6,19 +6,19 @@
 
 1. 设置阿里云容器镜像服务
     - 注册阿里云账号，例如：`helloworld`
-    - 开启容器镜像服务个人免费版实例
+    - 开启容器镜像服务个人免费版实例，记录相应实例的公网访问地址，例如：`registry.cn-beijing.aliyuncs.com`
     - 创建命名空间，例如：`superman`
     - 设置固定密码，例如：`superwoman`
 
 2. 创建 `Github` 仓库
     - 点击 `Use this template` 创建仓库
-    - 在仓库设置中添加 `Actions Secrets`
-        - `REGISTRY` 设置为 `registry.cn-beijing.aliyuncs.com`
-        - `REGISTRY_USER` 设置为阿里云账户全名 `helloworld`
-        - `REGISTRY_PASSWORD` 设置为阿里云容器镜像服务固定密码 `superwoman`
+    - 在仓库设置中Secret and variables中添加 `Actions Secrets`
+        - `REGISTRY` 设置为个人免费版实例的公网访问地址，例如：`registry.cn-beijing.aliyuncs.com`
+        - `REGISTRY_USER` 设置为阿里云账户全名，例如： `helloworld`
+        - `REGISTRY_PASSWORD` 设置为阿里云容器镜像服务固定密码，例如： `superwoman`
 
 3. 自动触发
-    - 新建或修改 `images.txt` 文件，格式参考 `images.txt.example`，每行一个镜像，格式为 `source|dest`
+    - 新建或修改 `images.txt` 文件，格式参考 `images.txt.example`，每行一个镜像，格式为 `source|dest`，注意相应修改公网访问地址和仓库命名空间
     - 提交 `images.txt` 文件，自动触发 `Actions` 构建
 
 4. 手动触发
