@@ -5,4 +5,4 @@ umids/ckg:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbx
 # neo4j
 neo4j:5.25.1|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/neo4j:5.25.1
 # forgejo
-codeberg.org/forgejo/forgejo:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/forgejo:latest
+codeberg.org/forgejo/forgejo:9.0.2|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/forgejo:9.0.2
