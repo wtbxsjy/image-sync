@@ -4,3 +4,5 @@ gitlab/gitlab-ee:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.c
 umids/ckg:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/ckg:latest
 # neo4j
 neo4j:5.25.1|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/neo4j:5.25.1
+# forgejo
+codeberg.org/forgejo/forgejo:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/forgejo:latest
