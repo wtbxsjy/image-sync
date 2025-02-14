@@ -8,3 +8,5 @@ neo4j:5.25.1|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/
 codeberg.org/forgejo/forgejo:9.0.2|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/forgejo:9.0.2
 # MeTEor https://github.com/scibiome/meteor/
 gordomics/meteor:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/meteor:latest
+# maxkb
+1panel/maxkb:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/maxkb:latest
