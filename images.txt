@@ -13,4 +13,4 @@ gordomics/meteor:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.c
 # comicsart
 pauljonasjost/comicsart:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/comicsart:latest
 # rocker/verse:4.5.1
-rocker/verse:4.5.1|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/rocker/verse:4.5.1
+rocker/verse:4.5.1|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/verse:4.5.1
