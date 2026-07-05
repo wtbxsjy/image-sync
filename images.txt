@@ -20,3 +20,5 @@ rocker/verse:4.5.2|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wt
 ghcr.io/lazear/sage:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/sage:latest
 # doctl
 digitalocean/doctl:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/doctl:latest
+# zotero/translation-server
+zotero/translation-server:latest|crpi-uhwnlcpxtqbk8oly.cn-shenzhen.personal.cr.aliyuncs.com/wtbxsjy/translation-server:latest
